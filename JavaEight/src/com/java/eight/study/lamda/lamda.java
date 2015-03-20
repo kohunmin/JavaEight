@@ -1,4 +1,4 @@
-package com.java.eight.study;
+package com.java.eight.study.lamda;
 
 import java.util.Arrays;
 import java.util.List;
