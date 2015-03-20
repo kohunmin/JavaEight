@@ -16,6 +16,7 @@ public class genericMethods {
 			boolean same = Util.compare(p1, p2);
 			System.out.println(same);
 		}
+		
 	}
 }
 
